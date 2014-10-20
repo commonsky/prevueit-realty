@@ -1,6 +1,10 @@
 Prevueit Realty Group Website
 ---
 
-#Description 
+# Description 
 
 This is an example site for the Intro to front-end design
+
+# Contact
+
+email: francwon@gmail.com
